@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\albma\source\repos\objtracking\objtracking\source.cpp(128): warning C4244: 'argomento': conversione da 'int' a '_Tp'. Possibile perdita di dati.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\albma\source\repos\objtracking\objtracking\source.cpp(129): warning C4244: 'argomento': conversione da 'int' a '_Tp'. Possibile perdita di dati.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\albma\source\repos\objtracking\objtracking\source.cpp(130): warning C4244: 'argomento': conversione da 'int' a '_Tp'. Possibile perdita di dati.
+          with
+          [
+              _Tp=float
+          ]
+  ObjTracking.vcxproj -> C:\Users\albma\source\repos\ObjTracking\x64\Debug\ObjTracking.exe
